@@ -1,11 +1,9 @@
 <h1 align="center"/>⚡️ Welcome to Abuse Hetzner Fixer ⚡️</h1>
 
-## Support project 
-
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/DEV6TO4/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/Abuse-Hetzner-Fixer/master/main.sh)
 ```
 
 ## Languages
